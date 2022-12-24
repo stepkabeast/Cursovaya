@@ -3,4 +3,5 @@
 
 https://user-images.githubusercontent.com/108450580/209427215-7f40f39a-e7da-49d5-894a-87ec7d07ce82.mp4
 
-[отчёт.docx](https://github.com/stepkabeast/Cursovaya/files/10298342/default.docx)
+
+[отчёт.docx](https://github.com/stepkabeast/Cursovaya/files/10298345/default.docx)
